@@ -1,6 +1,6 @@
 ### Opa !! Eu sou Weslley Martins
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Developer Front-end
 - 🌱 Estudando Angular JS
 
 <div align="center">
