@@ -1,7 +1,6 @@
 ### Opa !! Eu sou Weslley Martins
 
 - 🔭 Developer Front-end
-- 🌱 Estudando Angular JS
 
 <div align="center">
   <a href="https://github.com/weslleymart16">
