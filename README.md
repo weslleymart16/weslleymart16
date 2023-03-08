@@ -1,6 +1,6 @@
 ### Opa !! Eu sou Weslley Martins
 
-🔭 Developer Full Stack JR
+🔭 Developer Full Stack
 
 <div align="center">
   <a href="https://github.com/weslleymart16">
