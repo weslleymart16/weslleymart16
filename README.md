@@ -1,4 +1,4 @@
-Developer Full Stack PHP
+Developer Full Stack
 
 <div align="center">
   <a href="https://github.com/weslleymart16">
