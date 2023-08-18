@@ -1,4 +1,4 @@
-Developer Full Stack
+Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/weslleymart16">
